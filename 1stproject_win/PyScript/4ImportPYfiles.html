@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PyScript</title>
+    <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
+    <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
+    <py-env>
+        - paths:
+          - RandomNumber.py
+    </py-env>
+</head>
+<body>
+    <h1>Let's print random numbers</h1>
+    <b>Mayuri's lucky number is <label id="lucky"></label></b>
+    <py-script>
+      from RandomNumber import generate_random_number
+      pyscript.write('lucky', generate_random_number())
+    </py-script>
+</body>
+</html>

@@ -1,0 +1,19 @@
+Main Responsibilities of a Python Developer:
+
+- Writing effective and scalable Python codes
+- Designing and implementing robust applications
+- Debugging applications to ensure low-latency and high-availability
+- Integrating user-facing elements with server-side logic
+- Implementing security and data protection
+- Accommodating various data storage solutions
+
+========================================================================================================================
+
+Key Requirements :
+
+- Degree in Computer Science, Engineering or a related field
+- You have prior experience as a Python Developer
+- Good knowledge Django, Flask or similar Python frameworks
+- Familiarity with front-end technologies, such as JavaScript, HTML5, and CSS3
+- Knowledge of ORM (Object Relational Mapper)
+- Familiarity with various testing tools.

@@ -3,6 +3,7 @@
 # More List Operations 3
 # Insert, Reverse, Copy (Shallow and Deep), Extend, and Repeat Extend
 
+
 # Insert -> Syntax - s.insert(i, x) where x is inserted in s at index i ( same as s[i:i] = [x])
 
 list1 = [10, 20, 30, 40, 50]

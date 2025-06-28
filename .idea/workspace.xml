@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f68ba222-e9d8-44c6-b84b-d7d57d061ba4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/PycharmProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PycharmProjects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1stproject/DataStructuresCollections/07Lists07MutableOperations1Update.py" beforeDir="false" afterPath="$PROJECT_DIR$/1stproject/DataStructuresCollections/07Lists07MutableOperations1Update.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1stproject/DataStructuresCollections/11Lists11MoreOperations3.py" beforeDir="false" afterPath="$PROJECT_DIR$/1stproject/DataStructuresCollections/11Lists11MoreOperations3.py" afterDir="false" />
-    </list>
+    <list default="true" id="f68ba222-e9d8-44c6-b84b-d7d57d061ba4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
